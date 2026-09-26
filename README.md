@@ -4,6 +4,19 @@ An automated industrial sorting cell simulation developed in **Webots**. The sys
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [System Architecture](#system-architecture)
+- [Finite State Machine (FSM) Workflow](#finite-state-machine-fsm-workflow)
+- [Hardware Specification (Simulated)](#hardware-specification-simulated)
+- [Project Structure](#project-structure)
+- [Installation & Running the Simulation](#installation--running-the-simulation)
+- [Media & Demonstration](#media--demonstration)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Automated Visual Classification**:
